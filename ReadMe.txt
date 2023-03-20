@@ -1,0 +1,1 @@
+If you prefer that I utilize TypeScript for my project which is based on ReactJs, I am more than happy to do so. Additionally, I have proficiency in programming with Angular, which I believe will be beneficial in any case.
